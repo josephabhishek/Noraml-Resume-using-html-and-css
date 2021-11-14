@@ -1,1 +1,1 @@
-# Noraml-Resume-using-html-and-css
+# Normal-Resume-using-html-and-css
